@@ -1,0 +1,275 @@
+/* 
+  Localizable.strings
+  YAS Clinic
+
+  Created by MAC-1 on 21/06/2022.
+  
+*/
+
+"app_name" = "عيادة ياس";
+"your_apointment" = "موعدك";
+"something_went_wrong" = "هناك خطأ ما";
+"server_error" = "خطأ في الخادم";
+"internet_connection_lost" = "انقطع الاتصال بالإنترنت";
+"ok" = "موافق";
+"speciality_Main_title" = "الاختصاصات";
+"sign_out_btn" = "خروج";
+"reschudle" = "إعادة الجدولة";
+"next_b_tn" = "التالي";
+"upcomming_appointment" = "الموعد القادم";
+"select_appointment_date" = "حدد التاريخ لتحديد موعد";
+"follow" = "متابعة";
+"This_email_does_not_exist" = "هذا البريد الإلكتروني غير موجود";
+"please_check_your_email_for _further_instructions" = "يرجى التحقق من بريدك الإلكتروني للحصول على مزيد من التعليمات";
+"speciality_doc" = "استشاري امراض المخ و الاعصاب";
+"confirm" = "مؤكد";
+"date_doc" = "20 فبراير 2022 ، الساعة 3:00 مساءً يوم الإثنين";
+"call" = "+971 58210 4568";
+"mask_temp" = "القناع مطلوب ، يتطلب فحص درجة الحرارة";
+"male_check" = "الذكر";
+"Jhon_Aliya" = "جون إيليا";
+"female_check" = "أنثى";
+"title_home" = "الصفحة الرئيسية";
+"title_hospitals" = "المستشفيات";
+"hospital" = "مستشفى:";
+"calender" = "التقويم";
+"AboutUs" = "معلومات عنا";
+"title_pcr_test" = "اختبار PCR";
+"title_specialities" = "التخصصات";
+"title_notifications" = "إشعارات";
+"my_appointment" = "تعييني";
+"online_payment" = "الدفع الالكتروني";
+"setting_txt" = "جلسة";
+"language_btn" = "لغة";
+"account_setting_btn" = "حساب";
+"insurance_coverage" = "تغطية التأمين";
+"help" = "مساعدة";
+"lab_result" = "نتيجة المختبر";
+"fav_doctor" = "دكتور مفضل";
+"past_visit" = "الزيارة السابقة";
+"confirm_booking" = "تأكيد الحجز";
+"book_an_appointment" = "حجز موعد";
+"successfully_booked_your_appointment" = "تم حجز موعدك بنجاح";
+"dont_have_any_appointment" = "ليس لديك موعد";
+"about_us" = "معلومات عنا";
+"about_covid" = "حول كوفيد - 19";
+"contact_us" = "اتصل بنا";
+"insurance_network" = "شبكة التأمين";
+"basic" = "أساسي";
+"coming_soon" = "قريبا";
+"enhanced" = "المحسن";
+"language" = "لغة";
+"setting" = "إعدادات";
+"account" = "الحساب";
+"insurance" = "شبكة التأمين";
+"expert_health_care" = "خبير رعاية صحية";
+"full_name" = "الاسم الكامل";
+"name" = "اسم";
+"email_address" = "عنوان بريد الكتروني";
+"phone_number" = "رقم الهاتف على سبيل المثال +971";
+"please_enter_email_address" = "الرجاء إدخال عنوان البريد الإلكتروني";
+"please_enter_password" = "الرجاء إدخال كلمة المرور";
+"invalid_password" = "رمز مرور خاطئ";
+"please_enter_valid_email" = "الرجاء إدخال بريد إلكتروني صحيح";
+"invalid_login_credentials" = "اعتماد تسجيل الدخول غير صالح";
+"please_write_message" = "الرجاء كتابة رسالة";
+"please_enter_user_name" = "الرجاء إدخال اسم المستخدم";
+"please_enter_valid_password" = "الرجاء إدخال كلمة مرور صالحة";
+"invalid_credentials" = "بيانات الاعتماد غير صالحة";
+"please_login_to_see_notifications" = "الرجاء تسجيل الدخول لرؤية الإخطارات";
+"you_dont_have_any_notification" = "ليس لديك أي إخطار";
+"preferred_date" = "موعد مفضل";
+"nothing_to_show" = "لا شيء للعرض :(";
+"time_slot_expire" = "آسف هذه الفترة الزمنية تنتهي.";
+"already_booked" = "آسف حجزت بالفعل!";
+"online_payment_alert" = "الدفع عبر الإنترنت غير متوفر حاليًا ، قريبًا ...";
+"no_schedule_available" = "لا يوجد جدول زمني متاح";
+"you_have_booked_an_appointment_with" = "لقد حجزت موعدًا مع";
+"on" = "على";
+"at" = " في ";
+//"cvv_hint"><font size="25">***</font><font family="semi_bold_font_family"></font></string>
+"select_doctor" = "اختر دكتور";
+//"cardhint"><font size="20">****  ****  ****  5947</font><font family="semi_bold_font_family"></font></string>
+"select_cardType" = "نوع البطاقة";
+"get_direction" = "احصل على الاتجاهات";
+"direction" = "اتجاه";
+"select_specialist" = "حدد متخصص";
+"notes_for_doctor_office" = "أي ملاحظات لمكتب الأطباء";
+"book_an_appointment_check_box" = "أفهم أن هذا مجرد طلب موعد ولن يتم تحديد موعده إلا بعد مكالمة تأكيدية من قرص المساعدة في عيادة ياس";
+"book_an_appointment_subheading" = "احجز استشارتك عبر الإنترنت براحة تامة \ n في منزلك مع ياس كلينك";
+"book_an_appointment_long_text_second" = "يمكنك أيضًا إدارة المواعيد الموجودة مسبقًا \ عبر الإنترنت أو الاتصال بوكلائنا المتاحين على مدار الساعة طوال أيام الأسبوع \ n لدعمك.";
+"pcr_testing_vaccination_text" = "اختبار COVID-19 PCR \ n واستعلامات التطعيم \ n";
+"yas_clinic_one_day_surgery_text" = "عيادة ياس لجراحة اليوم الواحد";
+"abu_dhabi_stem_cells_center_text" = "مركز أبو ظبي للخلايا الجذعية";
+"forget_password" = "نسيت كلمة المرور؟";
+"forget_password_text" = "نسيت كلمة المرور";
+"login" = "تسجيل الدخول";
+"send" = "إرسال";
+"history" = "تاريخ";
+"upcoming" = "القادمة";
+"login_or_signup" = "تسجيل الدخول أو الاشتراك";
+"are_you_sure_you_want_to_logout" = "هل أنت متأكد أنك تريد تسجيل الخروج؟";
+"recent_appointment" = "موعد حديث";
+"schedule" = "برنامج";
+"password" = "كلمة المرور";
+"email" = "بريد الالكتروني";
+"gender" = "جنس";
+"personal_detail" = "تفاصيل شخصية";
+"insurance_long_text" = "نعتقد أنه يجب أن يحصل كل شخص على رعاية متخصصة ، عند الحاجة.
+         نحن ملتزمون بتقديم رعاية شاملة وموثوقة والعمل مع تأمين مختلف
+         لتضمين مستويات تغطية مختلفة.";
+"heath_isurance_text" = "ابحث عن التأمين الصحي المناسب";
+"payment_details" = "بيانات الدفع";
+"payment_details_text_view" = "كيف تريد أن تدفع مقابل الموعد";
+"enter_email" = "أدخل بريدك الإلكتروني";
+"enter_patient_name" = "اسم المريض";
+"enter_patient_phone" = "رقم التليفون";
+"enter_password" = "ادخل رقمك السري";
+"dont_have_an_account" = "ليس لديك حساب؟";
+"singn_up" = "اشتراك";
+"pay_cash_at_clinic" = "ادفع نقدًا في العيادة";
+"pay_cash_at_online" = "ادفع عبر الإنترنت";
+"confirm_booking_btn" = "تأكيد الحجز";
+"confirm_payment" = "تأكيد الدفع";
+"already_have_an_account" = "هل لديك حساب؟";
+"sign_in" = "تسجيل الدخول";
+"register_for_pcr_test" = "انقر للتسجيل في اختبار PCR";
+"pcr_tab_description" = "سجل الآن للحصول على اختبار PCR خالي من المتاعب في أقرب عيادة ياس";
+"view_profile" = "عرض الصفحة الشخصية";
+"profile" = "حساب تعريفي";
+"no_profile_text" = "الرجاء تسجيل الدخول للتحقق من الملف الشخصي";
+"title_locations" = "المواقع";
+//MARK: - PCR Test
+"location" = "موقع";
+"vaccination_pcr_test" = "التطعيم / اختبار PCR";
+"view_direction" = "مشاهدة الاتجاه";
+//end
+
+"get_in_touch" = "ابقى على تواصل";
+"type_your_message" = "اكتب رسالتك";
+"vaccine_information" = "معلومات اللقاح";
+"infection_control_mesaures" = "إجراءات مكافحة العدوى";
+"abu_dhabi_stem_cells" = "مركز أبوظبي للخلايا الجذعية";
+"temperature_checks_in_entrance" = "فحص درجة الحرارة في المدخل";
+"covid_ninteen_test_prior" = "اختبار COVID-19 قبل القبول";
+"physical_distancing_in_all_areas" = "التباعد المادي \ n في كافة \ n المناطق";
+"cancel_request" = "إلغاء الطلب";
+"visit_type" = "نوع الزيارة:";
+"procedure" = "إجراء:";
+"status" = "حالة:";
+"date" = "تاريخ:";
+"phone" = "هاتف:";
+"note" = "ملحوظة:";
+"reschedule_appointment" = "اعادة جدولة الموعد";
+"about_covid_third_text" = "يمكنك أيضًا إدارة المواعيد الموجودة مسبقًا \ عبر الإنترنت أو الاتصال بوكلائنا المتاحين على مدار الساعة طوال أيام الأسبوع \ n لدعمك.";
+"about_covid_first_text" = "في مستشفيات ومراكز ياس كلينك الطبية ، يتم تنفيذ تدابير السلامة للتأكد من أن زيارتك لمرافقنا الطبية تظل آمنة حتى تتمكن من الاستفادة من مزايا الرعاية الصحية الجيدة في بيئة تمنحك راحة البال. من خلال تطبيق البروتوكولات الخاصة بإجراءات سلامة COVID لخدماتنا وموظفينا ومرضانا ، فإننا نضمن بقاء مراكز ياس للرعاية الصحية في عيادة ياس خالية من العدوى.";
+"about_covid_second_text" = ">قم بزيارة أي مستشفيات ومراكز طبية في عيادة ياس واستفد من أفضل خدمات الرعاية الصحية في بيئة آمنة ومأمونة!";
+
+"About_us_text_one" = "إن التزامنا بأن نكون مقدم الرعاية الصحية الأول والوحيد في دولة الإمارات العربية المتحدة يدفعنا إلى تخطي الحدود كل يوم.
+تم بناء قيمنا الأساسية حول نهج المريض أولا. كل خبير في مجموعة عيادة ياس هو خبير رعاية بشرية ، يتخطى واجباته طوال اليوم كل يوم.";
+
+"About_us_text_two" = "
+        نظرًا لثقافتنا وقيمنا القوية ، تتمثل مهمتنا في تطوير اختراقات طبية محلية للمساعدة في تلبية الاحتياجات الصحية لمناطقنا والمساهمة في رفاهية المجتمعات في الإمارات العربية المتحدة والعالم. من خلال شبكتنا من المستشفيات والفريق الاستثنائي من المهنيين الطبيين ، نقدم رعاية صحية عالية الجودة قائمة على الأبحاث للجميع.
+هدفنا هو توفير التميز السريري والرعاية الصحية التي تركز على المريض للجميع.";
+
+"About_us_text_three" = "
+        ينصب تركيزنا على تطوير حلول مبتكرة ومستدامة لتشكيل نطاق البحث الطبي.
+ربط التكنولوجيا والخبرة البشرية لإجراء دراسات إكلينيكية معقدة على بعض العلاجات الأكثر تقدمًا في العالم ، مثل العلاج بالخلايا الجذعية والهندسة الوراثية.
+نسعى جاهدين لاحتضان المواهب المحلية وتنميتها من خلال ارتباطنا بمعاهد معترف بها دوليًا ،
+يوفر برنامج زمالة زرع نخاع العظام لدينا فرصًا للتعليم العالي لطلاب الطب المحليين والإقليميين.";
+
+"our_mission_tv" = ">للمساهمة في صحة ورفاهي
+                     كل مريض من خلال تقديم أعلى مستوى من الجودة السريرية
+                      الممارسة والتعليم والبحث من خلال
+                      التعاون مع الخبرات الطبية العالمية.";
+
+
+
+"our_vision_tv" = "
+        نحن نؤمن بتقديم قيمة لا مثيل لها لمرضانا بممتازة و
+         نتائج طبية أخلاقية مدعومة بأفضل الأبحاث الطبية ونضمن أن أهل الولايات المتحدة
+         الإمارات العربية - والعالم - تحصل على أفضل رعاية ممكنة.";
+
+//
+//
+"ThankYouScreenText" = "شكرا لك على الحجز";
+"MaskAndTemperatureText" = "القناع مطلوب - فحص درجة الحرارة مطلوب";
+"our_insurance_partner" = "شريك التأمين لدينا";
+"who_we_are" = "من نحن";
+"our_mission" = "مهمتنا";
+"our_vision" = "رؤيتنا";
+"our_values" = "قيمنا";
+"no_data_alert" = "عذرا لا توجد بيانات متاحة.";
+"internet_connectivity" = " الرجاء تشغيل اتصال الإنترنت";
+"contact_us_post_response_text" = " تم إرسال رسالتك إلينا بنجاح ، وسنعاود الاتصال بك قريبًا";
+"pick_a_date" = "لم تحدد أي فترة زمنية ، يرجى تحديد الفترة الزمنية المطلوبة أولاً.";
+"pick-A-Date" = "اختر موعدا  ";
+"select-date-to-make-an-appointment" = "حدد التاريخ لتحديد موعد";
+"please_login_to_book_an_appointment" = " الرجاء تسجيل الدخول لحجز موعد";
+"yes" = "نعم";
+"no" = "رقم";
+"alert" = "!إنذار";
+"booked_an_appointment_with" = " لقد حجزت موعدًا مع";
+
+"already_booked" = " آسف حجزت بالفعل!";
+"login_screen" = " تسجيل الدخول!";
+"invalid_email_or_password_login" = " البريد الإلكتروني أو كلمة السر خاطئة";
+"your_already_registered" = " انت مسجل مسبقا!";
+"try_again" = "حاول ثانية!";
+"congratulation_your_register_scucessfully" = "مبروك تسجيلك بنجاح!";
+"book_a_slot" = "يرجى تحديد الوقت لحجز موعد";
+"compassion" = "تعاطف";
+"integrity" = "التكامل";
+"reliability" = "الموثوقية";
+"innovation" = "التعاون";
+"sustainability" = "الاستدامة";
+"pcr_vaccination_inquries" = "استفسارات التطعيم  \nCOVID-19";
+"pcr_testing_inquries" = "استفسارات اختبار\n COVID-19 PCR";
+"inflection_control_measure" = "تدابير التحكم في الانعكاس";
+"back" = "الى الخلف";
+"confirmation" = "تأكيد!";
+"successfully_send" = "أرسل بنجاح";
+"notification_successfully_deleted" = "تم حذف الإعلام بنجاح";
+"are_you_sure_you_want_to_delete_this_notification" = "هل أنت متأكد أنك تريد حذف هذا الإخطار؟";
+////"default_notification_channel_name" translatable="true"Weather"
+////"default_notification_channel_id" translatable="false">fcm_default_channel"
+
+
+//MARK: - Profile
+
+"my_profile" = "ملفي";
+"past_visits" = "الزيارات السابقة";
+"my_appointments" = "المواعيد الخاصة بي";
+"favourite_doctor" = "الطبيب المفضل";
+"labouratory_results" = "النتائج المخبرية";
+"help" = "يساعد";
+"patient_id" = "رقم المريض";
+"phone_number" = "رقم الهاتف";
+"view_larger_map" = "عرض خريطة أكبر";
+
+
+//MARK: - book an appoitment
+
+"full_name" = "الاسم الكامل";
+"email_address" = "عنوان البريد الالكترونى";
+"phone_no" = "رقم الهاتف";
+"preferred_date" = "موعد مفضل";
+"select_specialist" = "حدد متخصص";
+"select_doctor" = "اختر الطبيب";
+"any_notes_for_doctor" = "أي ملاحظات لمكتب الطبيب";
+
+"please_enter_name" = "الرجاء إدخال الاسم";
+"please_enter_phone_no" = "الرجاء إدخال رقم الهاتف";
+"please_select_speciality" = "الرجاء تحديد التخصص";
+"please_select_doctor" = "الرجاء اختيار الطبيب";
+"please_check_understand" = "يرجى التحقق من الفهم";
+"slot_available_are_you_sure_you_want_to_book_this_slot?" = "هل أنت متأكد أنك تريد حجز هذه الفتحة؟";
+//MARK: - Tabbar
+/* Class = "UITabBarItem"; title = "Hospitals"; ObjectID = "2Ig-Wd-iEB"; */
+"2Ig-Wd-iEB.title" = "المستشفيات";
+/* Class = "UITabBarItem"; title = "PCR Test"; ObjectID = "5gJ-my-eAD"; */
+"5gJ-my-eAD.title" = "اختبار PCR";
+/* Class = "UITabBarItem"; title = "Specialities"; ObjectID = "Pyj-bf-71y"; */
+"Pyj-bf-71y.title" = "التخصصات";
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "vTK-1s-gAC"; */
+"vTK-1s-gAC.title" = "حساب تعريفي";

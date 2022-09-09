@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="19455" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="yIp-hg-nBI">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19454"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="CMV-Tv-2Xi">
+            <objects>
+                <viewController id="yIp-hg-nBI" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Lre-KE-lKt">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="eclips" translatesAutoresizingMaskIntoConstraints="NO" id="tTm-al-gJl">
+                                <rect key="frame" x="-36" y="0.0" width="450" height="165.5"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logo" translatesAutoresizingMaskIntoConstraints="NO" id="ZJN-95-fL5">
+                                <rect key="frame" x="107" y="283.5" width="200" height="150"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="150" id="aCf-oN-zhJ"/>
+                                    <constraint firstAttribute="width" constant="200" id="e5K-lW-ijl"/>
+                                </constraints>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="bottom" translatesAutoresizingMaskIntoConstraints="NO" id="hFq-52-XOb">
+                                <rect key="frame" x="-40" y="623" width="454" height="269"/>
+                            </imageView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="ELV-Sa-V25"/>
+                        <color key="backgroundColor" name="theme-color"/>
+                        <constraints>
+                            <constraint firstItem="hFq-52-XOb" firstAttribute="trailing" secondItem="ELV-Sa-V25" secondAttribute="trailing" id="2p8-qX-cCg"/>
+                            <constraint firstItem="ZJN-95-fL5" firstAttribute="centerY" secondItem="Lre-KE-lKt" secondAttribute="centerY" multiplier="0.8" id="DfZ-Nc-jhw"/>
+                            <constraint firstItem="hFq-52-XOb" firstAttribute="leading" secondItem="ELV-Sa-V25" secondAttribute="leading" constant="-40" id="F4L-5X-8U9"/>
+                            <constraint firstItem="hFq-52-XOb" firstAttribute="bottom" secondItem="ELV-Sa-V25" secondAttribute="bottom" constant="30" id="QHq-Q0-eWw"/>
+                            <constraint firstItem="tTm-al-gJl" firstAttribute="top" secondItem="Lre-KE-lKt" secondAttribute="top" id="TQC-Uo-6z5"/>
+                            <constraint firstItem="hFq-52-XOb" firstAttribute="height" secondItem="Lre-KE-lKt" secondAttribute="height" multiplier="0.3" id="UGj-Ac-yxv"/>
+                            <constraint firstItem="tTm-al-gJl" firstAttribute="trailing" secondItem="ELV-Sa-V25" secondAttribute="trailing" id="YTh-Mz-HTk"/>
+                            <constraint firstItem="ZJN-95-fL5" firstAttribute="centerX" secondItem="ELV-Sa-V25" secondAttribute="centerX" id="Yoc-vG-hcQ"/>
+                            <constraint firstItem="tTm-al-gJl" firstAttribute="height" secondItem="Lre-KE-lKt" secondAttribute="height" multiplier="0.184783" id="uQa-5t-VaZ"/>
+                            <constraint firstItem="tTm-al-gJl" firstAttribute="leading" secondItem="ELV-Sa-V25" secondAttribute="leading" constant="-36" id="ujz-jd-0EX"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Vse-Su-oZD" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="309" y="366"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="bottom" width="375" height="261"/>
+        <image name="eclips" width="187.5" height="68"/>
+        <image name="logo" width="422" height="143"/>
+        <namedColor name="theme-color">
+            <color red="0.0" green="0.22699999809265137" blue="0.43900001049041748" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>

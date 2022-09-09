@@ -1,0 +1,90 @@
+
+/* Class = "UITabBarItem"; title = "Hospitals"; ObjectID = "2Ig-Wd-iEB"; */
+"2Ig-Wd-iEB.title" = "Hospitals";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "3Oh-BQ-Tjt"; */
+"3Oh-BQ-Tjt.title" = "Item";
+
+/* Class = "UITabBarItem"; title = "PCR Test"; ObjectID = "5gJ-my-eAD"; */
+"5gJ-my-eAD.title" = "PCR Test";
+
+/* Class = "UILabel"; text = "Maaz Siddiqui"; ObjectID = "89E-e5-Pnc"; */
+"89E-e5-Pnc.text" = "Maaz Siddiqui";
+
+/* Class = "UITextField"; placeholder = "Phone No."; ObjectID = "89u-5y-uON"; */
+"89u-5y-uON.placeholder" = "Phone No.";
+
+/* Class = "UITextField"; placeholder = "Preferred Date"; ObjectID = "Ajn-47-dHd"; */
+"Ajn-47-dHd.placeholder" = "Preferred Date";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "BDw-RP-yQs"; */
+"BDw-RP-yQs.title" = "Item";
+
+/* Class = "UITextField"; placeholder = "Any notes for the doctor's office"; ObjectID = "EDQ-cy-ycd"; */
+"EDQ-cy-ycd.placeholder" = "Any notes for the doctor's office";
+
+/* Class = "UILabel"; text = "Patient ID: 223158"; ObjectID = "KUQ-Am-xA6"; */
+"KUQ-Am-xA6.text" = "Patient ID: 223158";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "LEe-iA-DLk"; */
+"LEe-iA-DLk.title" = "Home";
+
+/* Class = "UINavigationItem"; title = "PCR TEST"; ObjectID = "MCb-3J-uv5"; */
+"MCb-3J-uv5.title" = "PCR TEST";
+
+/* Class = "UIButton"; normalTitle = "Book an Appointment"; ObjectID = "MGt-ka-luf"; */
+"MGt-ka-luf.normalTitle" = "Book an Appointment";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "OLC-Tp-vVj"; */
+"OLC-Tp-vVj.title" = "Item";
+
+/* Class = "UITabBarItem"; title = "Specialities"; ObjectID = "Pyj-bf-71y"; */
+"Pyj-bf-71y.title" = "Specialities";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "RVT-eZ-N64"; */
+"RVT-eZ-N64.placeholder" = "Email Address";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "RoS-Hz-uKo"; */
+"RoS-Hz-uKo.title" = "Item";
+
+/* Class = "UINavigationItem"; title = "HOSPITALS"; ObjectID = "U3i-tp-XIF"; */
+"U3i-tp-XIF.title" = "HOSPITALS";
+
+/* Class = "UILabel"; text = "OUR SERVICES"; ObjectID = "UFb-1c-G4r"; */
+"UFb-1c-G4r.text" = "OUR SERVICES";
+
+/* Class = "UILabel"; text = "I understand that this is only an appointment request and will be scheduled only after a confirmation call from Yas-clinic help desk."; ObjectID = "Vll-Tk-1Vp"; */
+"Vll-Tk-1Vp.text" = "I understand that this is only an appointment request and will be scheduled only after a confirmation call from Yas-clinic help desk.";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "XEw-cQ-gya"; */
+"XEw-cQ-gya.title" = "Item";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "XvB-4C-s8O"; */
+"XvB-4C-s8O.title" = "Item";
+
+/* Class = "UINavigationItem"; title = "PCR TEST"; ObjectID = "aMt-s3-QfQ"; */
+"aMt-s3-QfQ.title" = "PCR TEST";
+
+/* Class = "UINavigationItem"; title = "HOSPITALS"; ObjectID = "bBs-Dp-BOQ"; */
+"bBs-Dp-BOQ.title" = "HOSPITALS";
+
+/* Class = "UIButton"; normalTitle = "Vaccination/PCR Test"; ObjectID = "bUq-kl-ExF"; */
+"bUq-kl-ExF.normalTitle" = "Vaccination/PCR Test";
+
+/* Class = "UITextField"; placeholder = "Full Name"; ObjectID = "cCm-Oj-00h"; */
+"cCm-Oj-00h.placeholder" = "Full Name";
+
+/* Class = "UILabel"; text = "0334455667"; ObjectID = "eCF-en-PKd"; */
+"eCF-en-PKd.text" = "0334455667";
+
+/* Class = "UIButton"; normalTitle = "Location"; ObjectID = "lKe-Se-GVt"; */
+"lKe-Se-GVt.normalTitle" = "Location";
+
+/* Class = "UINavigationItem"; title = "SEARCH SPECIALITY"; ObjectID = "m2t-rB-YvN"; */
+"m2t-rB-YvN.title" = "SEARCH SPECIALITY";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "ugl-jU-1xf"; */
+"ugl-jU-1xf.title" = "Item";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "vTK-1s-gAC"; */
+"vTK-1s-gAC.title" = "Profile";
